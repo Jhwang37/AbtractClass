@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="511fbe82-9cb8-44d5-9edd-a1276ef1c695" name="Default Changelist" comment="" />
+    <list default="true" id="511fbe82-9cb8-44d5-9edd-a1276ef1c695" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Car/com/company/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Car/com/company/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Car/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Car/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Vehicle.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,16 +22,26 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XOJuK0TWC7UDBus54VXrv0iFep" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.company" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -52,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580911428890</updated>
-      <workItem from="1580911432812" duration="842000" />
+      <workItem from="1580911432812" duration="2962000" />
     </task>
     <servers />
   </component>
@@ -64,6 +82,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1219" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1580911870637" />
+    <state width="969" height="281" key="GridCell.Tab.0.bottom" timestamp="1580913983397">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="969" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580913983397" />
+    <state width="969" height="281" key="GridCell.Tab.0.center" timestamp="1580913983397">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="969" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580913983397" />
+    <state width="969" height="281" key="GridCell.Tab.0.left" timestamp="1580913983397">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="969" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580913983397" />
+    <state width="969" height="281" key="GridCell.Tab.0.right" timestamp="1580913983397">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="969" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580913983397" />
     <state x="917" y="169" key="SettingsEditor" timestamp="1580911585095">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

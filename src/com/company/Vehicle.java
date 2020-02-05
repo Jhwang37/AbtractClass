@@ -1,6 +1,6 @@
 package com.company;
 
-public class Vehicle  {
+public class Vehicle extends Boat {
     private String make;
     private String model;
     private int year;
@@ -8,6 +8,7 @@ public class Vehicle  {
     private boolean on = false;
 
     public Vehicle(){
+        costOfBoat(12312.23, 12.23);
 
     }
     public void startCar(boolean on){
